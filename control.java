@@ -1,5 +1,5 @@
 public class control {
     public static void main(String[] args) {
-        System.out.println("what's up");
+        System.out.println("what's");
     }
 }
